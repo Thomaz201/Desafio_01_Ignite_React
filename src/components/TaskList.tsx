@@ -38,6 +38,7 @@ export function TaskList() {
       return task;
     });
 
+
     setTasks(alteredList);
   }
 
